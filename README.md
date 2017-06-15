@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# flasky
-=======
-# user
-users
->>>>>>> 225087318eb2cb7fa8006f9327fdf7033e7efaa6
+#github
+
+开始使用git时创建的文件。（补充说明）
